@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const NEXT_PUBLIC_POLYGON_MUMBAI_RPC = "___________________________Your RPC Url________________________________";
-const NEXT_PUBLIC_PRIVATE_KEY = "__________________________________Your Private Key_________________________";
+const NEXT_PUBLIC_POLYGON_MUMBAI_RPC = "___________________________Your Alchemy RPC Url________________________________";
+const NEXT_PUBLIC_PRIVATE_KEY = "__________________________________Your Metamask Wallet Private Key_________________________";
 /** @type import('hardhat/config').HardhatUserConfig */
 
 module.exports = {
